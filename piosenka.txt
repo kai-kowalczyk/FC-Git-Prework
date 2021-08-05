@@ -8,10 +8,7 @@ refren-1.txt
 
 zwrotka-4.txt
 
-Nobody wants him
-They just turn their heads
-Nobody helps him
-Now he has his revenge
+refren-2.txt
 
 Heavy boots of lead
 Fill his victims full of dread
