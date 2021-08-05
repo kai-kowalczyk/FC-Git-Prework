@@ -10,7 +10,4 @@ zwrotka-4.txt
 
 refren-2.txt
 
-Heavy boots of lead
-Fill his victims full of dread
-Running as fast as they can
-Iron Man lives again! 
+zwrotka-5.txt
