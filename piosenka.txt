@@ -4,10 +4,7 @@ zwrotka-2.txt
 
 zwrotka-3.txt
 
-Nobody wants him
-He just stares at the world
-Planning his vengeance
-That he will soon unfurl
+refren-1.txt
 
 Now the time is here
 For Iron Man to spread fear
