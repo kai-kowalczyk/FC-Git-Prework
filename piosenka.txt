@@ -6,10 +6,7 @@ zwrotka-3.txt
 
 refren-1.txt
 
-Now the time is here
-For Iron Man to spread fear
-Vengeance from the grave
-Kills the people he once saved
+zwrotka-4.txt
 
 Nobody wants him
 They just turn their heads
